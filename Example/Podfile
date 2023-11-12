@@ -1,0 +1,6 @@
+use_frameworks!
+target 'testablekamil_Tests' do
+  pod 'testablekamil', :path => '../'
+  
+  
+end
